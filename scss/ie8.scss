@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* for IE8 */
+body {
+  // background-color: red;
+}
+
+@mixin cf {
+  *zoom: 1;
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+.cf {
+  @include cf;
+}
+
+.body-wrapper,
+.container {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+/*
+header
+========================================*/
+$fiexTop : 0;
+$ToolBarH : 31px;
+
+#g-header {
+  width: 100%;
+  border-bottom: none;
+  position: relative;
+  top: 0;
+  height: 181px;
+  h1 {
+    padding-top: 34px;
+    margin-bottom: 26px;
+    a{
+      margin: 0;
+      padding: 0;
+      width: auto; height: auto;
+      background: none;
+      img {
+        display: inline-block;
+        width: 100%;
+        max-width: 170px;
+        height: auto;
+      }
+    }
+  }
+  .button-menu{display: none;}
+}
+
+/*
+#g-nav
+---------------------------------------------------------------------*/
+
+// スクロール時のFIX
+.navFixed {
+  position: fixed !important;
+  top: 0 !important;
+  .site-nav{display: none;}
+}
+
+
+  .g-nav-list {
+    li {
+      a {
+        height: 55px;
+      }
+    }
+  }

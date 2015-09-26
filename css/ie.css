@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* for IE all */
+body {
+  font-family: Verdana, Roboto, Helvetica, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  text-shadow: none;
+}
+body strong {
+  font-family: Verdana, Roboto, Helvetica, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+}
+
+.post-items .item a .wrap .title {
+  font-family: Verdana, Roboto, Helvetica, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+}

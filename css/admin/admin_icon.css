@@ -1,0 +1,5 @@
+@charset "UTF-8";
+div.iconBox{ float: left; width: 21%; margin: 2%; text-align: center; height: 150px; }
+div.iconBox img{ width: 100%; margin: auto; max-width: 128px; }
+div.iconBox a{ text-decoration: none; color: #000; }
+div.iconBox a:hover{ text-decoration: underline; color: #000; }

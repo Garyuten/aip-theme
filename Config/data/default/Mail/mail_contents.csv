@@ -1,0 +1,25 @@
+"id","name","title","description","sender_1","sender_2","sender_name","subject_user","subject_admin","layout_template","form_template","mail_template","redirect_url","status","auth_captcha","widget_area","ssl_on","exclude_search","publish_begin","publish_end","created","modified"
+"1","contact","お問い合わせ","<div class=""center"">
+<p>お問い合わせはお電話か次のお問い合わせフォームより承ります。</p>
+
+<p>電話番号 <strong class=""fs-large"">092-986-2834</strong><br />
+（受付時間 平日10:00～17:00）</p>
+</div>
+
+<h2 class=""title-center-line""><span>お問い合わせフォーム</span></h2>","office@npo-aip.or.jp","","特定非営利活動法人AIP　お問い合わせ","【特定非営利活動法人AIP】お問い合わせ頂きありがとうございます。","【特定非営利活動法人AIP】お問い合わせを受け付けました","1col","default","mail_default","http://www.npo-aip.or.jp/","1","1","","","","","","2015-02-03 22:14:21","2015-07-02 18:17:21"
+"2","entry_course","講座申込","<div class=""center"">
+<p>講座に関するお問い合わせはお電話か<a href=""/contact/"">こちらのお問い合わせフォーム</a>より承ります。</p>
+
+<p>電話番号 <strong class=""fs-large"">092-986-2834</strong><br />
+（受付時間 平日10:00～17:00）</p>
+</div>
+
+<h2 class=""title-center-line""><span>講座申込フォーム</span></h2>","office@npo-aip.or.jp","","特定非営利活動法人AIP　講座申込","【特定非営利活動法人AIP】講座申込頂きありがとうございます。","【特定非営利活動法人AIP】講座申込を受け付けました","1col","course","mail_default","http://www.npo-aip.or.jp/","1","1","","","","","","2015-04-16 18:37:25","2015-07-27 14:26:37"
+"3","entry_course_copy","講座申込_copy","<div class=""center"">
+<p>講座に関するお問い合わせはお電話か<a href=""/contact/"">こちらのお問い合わせフォーム</a>より承ります。</p>
+
+<p>電話番号 <strong class=""fs-large"">092-986-2834</strong><br />
+（受付時間 平日10:00～17:00）</p>
+</div>
+
+<h2 class=""title-center-line""><span>講座申込フォーム</span></h2>","office@npo-aip.or.jp","garyu@cgfm.jp","特定非営利活動法人AIP　講座申込","【特定非営利活動法人AIP】講座申込頂きありがとうございます。","【特定非営利活動法人AIP】講座申込を受け付けました","1col","course","mail_default","http://www.npo-aip.or.jp/","","1","","","","","","2015-04-21 12:08:20","2015-06-24 17:57:04"

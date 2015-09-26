@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* for IE all */
+
+$fontFamGo: Verdana,Roboto, Helvetica, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+
+body {
+  font-family: $fontFamGo;
+  text-shadow: none;
+  // color: red;
+  strong{
+    font-family: $fontFamGo;
+  }
+}
+
+.post-items {
+  .item {
+    a {
+      .wrap {
+        .title {
+    	    font-family: $fontFamGo;
+        }
+      }
+    }
+  }
+}

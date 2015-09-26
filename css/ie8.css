@@ -1,0 +1,62 @@
+@charset "UTF-8";
+/* for IE8 */
+.cf {
+  *zoom: 1;
+}
+.cf:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.body-wrapper,
+.container {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+/*
+header
+========================================*/
+#g-header {
+  width: 100%;
+  border-bottom: none;
+  position: relative;
+  top: 0;
+  height: 181px;
+}
+#g-header h1 {
+  padding-top: 34px;
+  margin-bottom: 26px;
+}
+#g-header h1 a {
+  margin: 0;
+  padding: 0;
+  width: auto;
+  height: auto;
+  background: none;
+}
+#g-header h1 a img {
+  display: inline-block;
+  width: 100%;
+  max-width: 170px;
+  height: auto;
+}
+#g-header .button-menu {
+  display: none;
+}
+
+/*
+#g-nav
+---------------------------------------------------------------------*/
+.navFixed {
+  position: fixed !important;
+  top: 0 !important;
+}
+.navFixed .site-nav {
+  display: none;
+}
+
+.g-nav-list li a {
+  height: 55px;
+}

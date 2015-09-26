@@ -1,0 +1,1035 @@
+"id","sort","name","title","description","contents","page_category_id","status","url","draft","author_id","publish_begin","publish_end","exclude_search","code","unlinked_mobile","unlinked_smartphone","modified","created"
+"1","1","index","","","","","1","/index","<div class=""row"">
+<div class=""hide-on-med-and-up center-align""><img alt="" "" src=""_shared/img/sp/home-logo.png"" /></div>
+
+<h2 class=""hide-on-med-and-up h2-center"">AIPの人材育成を支える3つの柱</h2>
+
+<div class=""col s12 m4"" id=""aip_community"">
+<div class=""hide-on-small-only center-align""><a href=""#""><img alt="""" src=""_shared/img/home/a.png"" /> </a></div>
+
+<h3><a href=""#"">コミュニティ<small class=""hide-on-med-and-up"">コミュニティ支援</small></a></h3>
+
+<div class=""hide-on-small-only"">
+<p><a href=""#"">テキストが入ります。テキストが入ります。テキストが入ります。</a></p>
+
+<p class=""btn""><a href=""#"">コミュニティ支援について</a></p>
+</div>
+</div>
+
+<div class=""col s12 m4"" id=""aip_business"">
+<div class=""hide-on-small-only center-align""><a href=""#""><img alt="""" src=""_shared/img/home/i.png"" /> </a></div>
+
+<h3><a href=""#"">ビジネス<small class=""hide-on-med-and-up"">プロジェクト支援</small></a></h3>
+
+<div class=""hide-on-small-only"">
+<p><a href=""#"">プロジェクトを実施することにより経験を積んでいきます</a></p>
+
+<p class=""btn""><a href=""#"">プロジェクト支援について</a></p>
+</div>
+</div>
+
+<div class=""col s12 m4"" id=""aip_education"">
+<div class=""hide-on-small-only center-align""><a href=""#""><img alt="""" src=""_shared/img/home/p.png"" /> </a></div>
+
+<h3><a href=""#"">教育<small class=""hide-on-med-and-up"">教育事業</small></a></h3>
+
+<div class=""hide-on-small-only"">
+<p><a href=""#"">最前線でビジネスを行うメンバーが講師というのも特徴です</a></p>
+
+<p class=""btn""><a href=""#"">教育事業について</a></p>
+</div>
+</div>
+</div>
+
+<div class=""row"">
+<div class=""col s12 m3"">
+<ul class=""aside sp_list"">
+<li class=""aip_blue""><a class=""waves-effect waves-light"" href=""#""><strong>AIPの紹介</strong> </a>
+
+<p><a class=""waves-effect waves-light"" href=""#"">福岡に根ざし、ITの利活用を通してコミュニティと街をつくるNPOです。</a></p>
+<a class=""waves-effect waves-light"" href=""#""> </a>
+
+<div class=""center-align"">
+<p class=""btn hide-on-small-only""><a class=""waves-effect waves-light"" href=""#"">詳しくはこちら </a></p>
+</div>
+<a class=""waves-effect waves-light"" href=""#""> </a></li>
+<li class=""aip_red""><a class=""waves-effect waves-light"" href=""#""><strong>AIPカフェ</strong> </a>
+<p><a class=""waves-effect waves-light"" href=""#"">勉強会や交流会の場。<br />
+AIPが提供するコミュニティスペースです。</a></p>
+<a class=""waves-effect waves-light"" href=""#""> </a>
+
+<div class=""center-align"">
+<p class=""btn hide-on-small-only""><a class=""waves-effect waves-light"" href=""#"">詳しくはこちら </a></p>
+</div>
+<a class=""waves-effect waves-light"" href=""#""> </a></li>
+<li><a class=""waves-effect waves-light"" href=""#""><strong>AIPへの協力・支援者募集中！</strong> </a>
+<p><a class=""waves-effect waves-light"" href=""#"">福岡を元気にする人材づくりを担うAIPへのご協力をお願いします！</a></p>
+<a class=""waves-effect waves-light"" href=""#""> </a>
+
+<div class=""center-align"">
+<p class=""btn hide-on-small-only""><a class=""waves-effect waves-light"" href=""#"">詳しくはこちら </a></p>
+</div>
+<a class=""waves-effect waves-light"" href=""#""> </a></li>
+</ul>
+</div>
+
+<div class=""col s12 m9"">
+<h2 class=""title_more"">新着講座<span class=""hide-on-small-only""><a href=""#"">講座一覧</a></span></h2>
+
+<ul class=""newsfeed sp_list"">
+<li><a href=""#"">講座タイトルが入ります講座タイトルが入ります講座タイトルが入ります</a><br />
+<small>2015年00月00日（曜日）</small></li>
+<li><a href=""#"">講座タイトルが入ります講座タイトルが入ります講座タイトルが入ります</a><br />
+<small>2015年00月00日（曜日）</small></li>
+<li><a href=""#"">講座タイトルが入ります講座タイトルが入ります講座タイトルが入ります</a><br />
+<small>2015年00月00日（曜日）</small></li>
+<li><a href=""#"">講座タイトルが入ります講座タイトルが入ります講座タイトルが入ります</a><br />
+<small>2015年00月00日（曜日）</small></li>
+<li><a href=""#"">講座タイトルが入ります講座タイトルが入ります講座タイトルが入ります</a><br />
+<small>2015年00月00日（曜日）</small></li>
+</ul>
+
+<ul class=""snsBtn"">
+<li class=""snsFb waves-effect btn-flat""><a href=""#"">シェアする</a></li>
+<li class=""snsTw waves-effect btn-flat""><a href=""#"">ツイートする</a></li>
+</ul>
+</div>
+</div>
+<!-- row -->","1","","","","","","","2015-09-26 14:32:20","2015-02-03 22:14:16"
+"5","6","index","","","<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<div style=""text-align:center;background-color:#8ABE08;""> <span style=""color:white;"">メインメニュー</span> </div>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<span style=""color:#8ABE08"">■</span>
+<?php $this->BcBaser->link(""ニュースリリース"",array(""controller""=>""news"",""action""=>""index"")) ?>
+<br />
+<span style=""color:#8ABE08"">■</span>
+<?php $this->BcBaser->link(""お問い合わせ"",array(""controller""=>""contact"",""action""=>""index"")) ?>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<div style=""text-align:center;background-color:#8ABE08;""> <span style=""color:white;"">NEWS RELEASE</span> </div>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<?php $this->BcBaser->blogPosts('news', 5) ?> <div>&nbsp;</div>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<div style=""text-align:center;background-color:#8ABE08;""> <span style=""color:white;"">baserCMS NEWS</span> </div>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<?php $this->BcBaser->feed(1) ?>","1","1","/mobile/index","","1","","","","","","","","2015-02-03 22:14:16"
+"6","7","index","","","<div id=""news"" class=""clearfix"">
+<div class=""news"" style=""margin-right:28px;"">
+<h2 id=""newsHead01"">NEWS RELEASE</h2>
+<div class=""body"">
+<?php $this->BcBaser->blogPosts('news', 5) ?>
+</div>
+</div>
+<div class=""news"">
+<h2 id=""newsHead02"">baserCMS NEWS</h2>
+<div class=""body"">
+<?php $this->BcBaser->js('/s/feed/ajax/1') ?>
+</div>
+</div>
+</div>","2","1","/smartphone/index","","1","","","","","","","","2015-02-03 22:14:16"
+"7","8","about","会社案内","baserCMS inc.の会社案内ページ","<h2 class=""contents-head"">会社案内</h2>
+<h3 class=""contents-head"">会社データ</h3>
+<div class=""section"">
+<table class=""row-table-01"" cellspacing=""0"" cellpadding=""0"">
+<tr><th width=""150"">会社名</th><td>baserCMS inc.  [デモ]</td></tr>
+<tr><th>設立</th><td>2009年11月</td></tr>
+<tr><th>所在地</th><td>福岡県福岡市博多区博多駅前（ダミー）</td></tr>
+<tr><th>事業内容</th><td>インターネットサービス業（ダミー）<br />
+WEBサイト制作事業（ダミー）<br />
+WEBシステム開発事業（ダミー）</td></tr>
+</table>
+</div>
+<h3 class=""contents-head"">アクセスマップ</h3>
+<div class=""section"">
+<?php $this->BcBaser->googleMaps(array(""width"" => 585)) ?>
+</div>","2","1","/smartphone/about","","1","","","","","","","","2015-02-03 22:14:16"
+"8","9","service","サービス","baserCMS inc.のサービス紹介ページ。","<h2 class=""contents-head"">サービス</h2>
+<div class=""section"">
+<p>
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+</p>
+</div>
+<div class=""section"">
+<p>
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+</p>
+</div>
+<div class=""section"">
+<p>
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。
+</p>
+</div>","2","1","/smartphone/service","","1","","","","","","","","2015-02-03 22:14:16"
+"9","10","sitemap","サイトマップ","baserCMS inc.のサイトマップページ","<h2 class=""contents-head"">サイトマップ</h2>
+<?php $this->BcBaser->sitemap() ?>
+<ul class=""section sitemap"">
+	<li><?php $this->BcBaser->link(""新着情報"",""/s/news/index"") ?></li>
+	<li><?php $this->BcBaser->link(""お問い合わせ"",""/s/contact/index"") ?>	</li>
+</ul>","2","1","/smartphone/sitemap","","1","","","","","","","","2015-02-03 22:14:16"
+"10","11","icons","アイコンの使い方","50種類のアイコンを自由にカスタマイズしよう。","<h2>
+	アイコンの使い方</h2>
+<h3>
+	50種類のアイコンを自由にカスタマイズしよう。</h3>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	まずは、<a href=""http://basercms.net/files/extra/nada-works-png.zip"">nada-works-png.zip</a> をダウンロードして解凍します。</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	icons_ico_.pngをFireworksで開くと下記の50種類のアイコンがレイヤー分けされています。</p>
+<p>
+	&nbsp;</p>
+<p style=""text-align: center;"">
+	<?php $this->BcBaser->img('icons/about_001.png', array('style' => 'width: 656px; height: 250px;')) ?></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	カスタマイズ1：ベースの形を変える。</p>
+<p style=""text-align: center;"">
+	<?php $this->BcBaser->img('icons/about_002.png', array('style' => 'width: 656px; height: 93px;')) ?></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	カスタマイズ2：色を変える。</p>
+<p style=""text-align: center;"">
+	<?php $this->BcBaser->img('icons/about_003.png', array('style' => 'width: 656px; height: 93px;')) ?></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	カスタマイズ3：パスを使って変形させる。（上級者向け）<br />
+	パスで作成しています。自由に変形させることが可能です。</p>
+<p>
+	&nbsp;</p>
+<p style=""text-align: center;"">
+	<?php $this->BcBaser->img('icons/about_004.png', array('style' => 'width: 193px; height: 186px;')) ?></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	パターン例：各コンテンツで色を変える。同じアイコンを使用する、など</p>
+<p style=""text-align: center;"">
+	<?php $this->BcBaser->img('icons/about_005.png', array('style' => 'width: 656px; height: 215px;')) ?></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<h3>
+	文字と写真を変えるだけで完成！かんたんバナーを作ろう。</h3>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	icons_banner_00.png、icons_banner_l_00.pngをFireworksで開くと各要素をレイヤー分けされています。<br />
+	言葉、フォント、色、画像を変更してオリジナルのバナーを作成することができます。<br />
+	画像は「シンボル」にて配置しています。差し替えたい画像をシンボル化し、「シンボルを入れ替え」にて差し替えてご使用ください。</p>
+<p>
+	&nbsp;</p>
+<p style=""text-align: center;"">
+	<?php $this->BcBaser->img('icons/about_006.png', array('style' => 'width: 656px; height: 302px;')) ?></p>
+<p>
+	&nbsp;</p>
+<p>
+	例：言葉、フォントの変更、画像差し替え</p>
+<p>
+	&nbsp;</p>
+<p style=""text-align: center;"">
+	<?php $this->BcBaser->img('icons/about_007.png', array('style' => 'width: 656px; height: 278px;')) ?></p>","2","1","/smartphone/icons","","1","","","","","","","","2015-02-03 22:14:16"
+"11","12","index","プロジェクト支援","","<div class=""row"">
+<div class=""col s12 m12 l8 offset-l2"">
+<p>どんなに「知識」を得ても、どんなにコミュニティを通じて仲間が出来て、そこで「人間性」を磨いても、実際に実務に携わらないと、その知識や人間性は絵に描いた餅となってしまいます。 そこでAIPでは、実際に私たちが住んでいる福岡という街をITコミュニティの力を通じて、より住みやすく、より楽しくなるような、プロジェクトを実際に実施する主体として活動してきています。 これが、AIPの理念の３つめである「経験」を積むための「プロジェクト支援」です。</p>
+</div>
+</div>
+
+<div class=""row project"">
+<h2><span>AIPのプロジェクト支援実績</span></h2>
+
+<div class=""col s12 m6""><strong class=""status-now"">進行中</strong>
+
+<h3>天神・大名WiFi化プロジェクト</h3>
+
+<p><img align="""" alt=""天神・大名WiFi化プロジェクトロゴ"" src=""/files/uploads/tenjin_wifi_logo.gif"" /></p>
+
+<p>ITコミュニティの力で福岡をより住みやすく、より楽しくしたい「AIP」の理念と、日本でWiFiデンシティ（密集地）都市をITコミュニティの力を借りて作りたいFON JAPAN　の思いが重なり、日本で初めて、「街をまるごとWiFi化」するプロジェクトが、通信会社でも、自治体でもなく、ITコミュニティとNPO主導で始まりました。</p>
+
+<p>西日本新聞の一面で取り上げられるなどの反響が反響を呼び、最終的には120箇所のWiFiスポットを、天神・大名地域につくることが出来、この中で築いた商店街とのネットワークが次なるプロジェクト「大名なう」へつながることになります。</p>
+
+<p>このプロジェクトの狙いや思いについては、コミュニティメンバーが <a href=""/files/uploads/tenjinwifi21.gif"" target=""_blank"">素敵なイラストで表現</a>してくれていますので、是非ごらんください。</p>
+</div>
+
+<div class=""col s12 m6""><strong class=""status-now"">進行中</strong>
+
+<h3>大名なう</h3>
+
+<p><img align="""" alt=""大名なう webサイトスクリーンショット"" src=""/files/uploads/daimyo_now.jpg"" /></p>
+
+<p>天神・大名WiFi化プロジェクトでつながった商店街の皆さんと、ITを使って大名地域をもっと盛り上げたい、お客さんに来てほしい、ということで「天神・大名WiFi化プロジェクト」名義で始まったプロジェクトです。<br />
+その頃日本でブレイクしはじめたTwitterを使って、街の情報を発信すれば、IT利用に興味が無い商店街の方も、気軽に使えるのではないか、ということで、大名のお店に「#daimyo 」というハッシュタグを使ってTwitterで呟いてもらうプロジェクトを開始しました。<br />
+こちらは、「日本初の Twitterによる地域街おこし」としてテレビの全国放送にも取り上げられることになり、活動開始から二ヶ月は毎週何らかの取材、TVへの出演などを果たすことになり、多くの参加店が、直接的な売上げの向上のみならず、新規顧客の獲得、参加店の間のコミュニティ組成による、新規イベント発生などの効果をえることが出来ました。<br />
+概要については、情報白書に取り上げられているので、そちらをご覧ください。<br />
+なお、このプロジェクトは現在でも、新しいSNSの勉強会などのかたち（「大名なう勉強会」）などで続いています。</p>
+</div>
+</div>","3","1","/project/index","","1","","","","<?php $this->layout = '1col' ?>","","","2015-05-27 14:03:05","2015-03-11 22:15:10"
+"12","13","index","コミュニティ支援","","<div class=""row"">
+<div class=""col s12 m12 l8 offset-l2"">
+<p>AIPの理念の一つ「人間性」を育む場がコミュニティです。<br />
+教育の大きな核となるITコミュニティへの支援の具体的な活動として、ITコミュニティがまだ全国的にも無かった10年以上前から「AIPコミュニティ」を設立し運営を行い、<br />
+コミュニティの勉強会や意見交換が出来る場として、現在のシェアカフェにつながるようなコンセプトの「AIPCafe」を運営し、<br />
+さらに実ビジネスをコミュニティベースで行う実験として（この活動は現在ではコミュニティ経済と言われる概念の走りである）人と街を繋げる「天神・大名WiFi化協議会」や「大名なう」などの活動を実施してきました。</p>
+
+<p>この活動の中で培った、コミュニティ運営、場作り、地域活性などのノウハウを活かし、様々な支援を行っています。</p>
+</div>
+</div>
+
+<div class=""row project"">
+<h2><span>AIPのコミュニティ支援実績</span></h2>
+
+<div class=""col s12 m6 l4""><img align="""" alt=""CodeForFukuoka"" src=""/files/uploads/CodeForFukuoka.jpg"" /> <strong class=""status-now"">継続中</strong>
+
+<h3>CODE FOR FUKUOKA</h3>
+
+<p>支援内容：運営、会場提供、広報</p>
+
+<ul>
+	<li><a href=""http://code4fukuoka.org/"" target=""_blank"">CodeForFukuoka公式サイト</a></li>
+</ul>
+</div>
+
+<div class=""col s12 m6 l4""><img align="""" alt=""Startup Cafe"" src=""/files/uploads/StartupCafe.jpg"" /> <strong class=""status-now"">継続中</strong>
+
+<h3>スタートアップカフェ</h3>
+
+<p>支援内容：アンバサダーコンシェルジュとして起ち上げ、企画、運営をサポート</p>
+
+<ul>
+	<li><a href=""http://www.startupcafe.jp/"" target=""_blank"">スタートアップカフェ公式サイト</a></li>
+</ul>
+</div>
+
+<div class=""col s12 m6 l4""><img alt="""" src=""/_shared/img/no-picture.png"" /> <strong class=""status-now"">継続中</strong>
+
+<h3>StartupSupporters</h3>
+
+<h4>支援内容</h4>
+
+<p>運営、会場提供</p>
+<!-- <ul>
+<li><a href=""http://hogehoge"">プロジェクト公式サイト</a></li>
+</ul> --></div>
+</div>
+
+<div class=""row"">
+<h2><span>支援したコミュニティ一覧</span></h2>
+
+<div class=""col s12 m6 l4"">
+<ul>
+	<li>FWW(Fukuoka Web Workers)</li>
+	<li>Ruby Business Commons</li>
+	<li>ソフトウェアビジネスラボ</li>
+	<li>WordBench福岡</li>
+	<li>水曜どうしよう</li>
+</ul>
+</div>
+
+<div class=""col s12 m6 l4"">
+<ul>
+	<li>大名なう勉強会</li>
+	<li>合同新人研修コミュニティ</li>
+	<li>TechWave塾コミュニティ</li>
+	<li>福岡県情報サービス産業協会(FISA)</li>
+	<li>ふくあず</li>
+</ul>
+</div>
+
+<div class=""col s12 m6 l4"">
+<ul>
+	<li>StartupSupprtersコミュニティ</li>
+	<li>Fukuoka Frontend Frogs</li>
+	<li>Code For Fukuoka</li>
+</ul>
+</div>
+</div>","4","1","/community/index","","1","","","","<?php $this->layout = '1col' ?>","","","2015-04-07 21:06:50","2015-03-11 22:16:23"
+"13","14","index","教育事業","","<div class=""row"">
+<div class=""col s12 m12 l8 offset-l2"">
+<p>AIPの理念の一つ「知識」を得る場としてコミュニティ形成も軸に置いた合同新人研修をはじめ、これから必ず必要になるであろう知識・技術、コアメンバー育成のためのキャリア教育など、NPOだからこそできる特色ある講座をご用意しています。</p>
+
+<p>どの講座も最前線でビジネスを行っているコミュニティメンバーが講師となり、そのノウハウを落とし込んだまさに実ビジネスのためのカリキュラムです。</p>
+
+<p>また単なる講座を提供するだけでなく、将来のコアメンバー育成のための教育によるキャリアフォローをご提案しています。合同新人研修から始まり、フォローアップ研修、３年目教育、マネージャ育成とコアメンバーに必要となる様々な教育を実ビジネスに沿った内容でご提供いたします。</p>
+</div>
+</div>
+
+<div class=""row flatH-col-p"">
+<h2><span>AIPの教育事業</span></h2>
+
+<div class=""col s12 m4"">
+<div class=""center-align""><img alt="""" src=""/_shared/img/education/i-orientation.png"" />
+<h3 class=""bg-none"">新人教育</h3>
+</div>
+
+<p>AIPの新人研修にかける想いは２つ、<br />
+「高い品質の教育を福岡で提供したい」<br />
+「新人の頃から多くの絆を作れる場を提供したい」です。<br />
+この想いを元に2005年から毎年合同新人研修を実施しています。<br />
+高い品質とリーズナブルな価格、そして将来のコアメンバー育成の為の幅広い内容とコミュニティ育成。<br />
+一企業では実現が難しい事でも、多くの企業が協力して運営するNPOのAIPだからこそできる教育です。</p>
+
+<div class=""center-align""><a class=""waves-effect waves-light btn small green"" href=""/education/orientation"">新人教育の詳細</a></div>
+</div>
+
+<div class=""col s12 m4 flatH-col-p"">
+<div class=""center-align""><img alt="""" src=""/_shared/img/education/i-course.png"" />
+<h3 class=""bg-none"">講座</h3>
+</div>
+
+<p>AIPがご提供する講座は座学だけでなく、ハンズオンを伴う実践型講座です。<br />
+説明を聴いて終わりではなく、実際に頭と手を動かして頂いて、講座終了後も自らの手で学習を進めていけるきっかけをしっかりとご提供します。<br />
+特定の技術をターゲットとした講座から、UI/UX、品質向上、マネジメントやファシリテーションなど幅広く、そして実ビジネスに活用できる内容ばかりです。</p>
+
+<div class=""center-align""><a class=""waves-effect waves-light btn small green"" href=""/course/index"">講座一覧</a></div>
+</div>
+
+<div class=""col s12 m4"">
+<div class=""center-align""><img alt="""" src=""/_shared/img/education/i-teacher.png"" />
+<h3 class=""bg-none"">講師</h3>
+</div>
+
+<p>AIPの教育事業は、講師として多くの企業様、コミュニティからのご協力を頂いています。<br />
+講師陣の確かなノウハウと多くの経験は、講座を通じて必ず皆様のビジネスにお役に立つものだと考えております。</p>
+
+<div class=""center-align""><a class=""waves-effect waves-light btn small green"" href=""/teacher/index"">講師一覧</a></div>
+</div>
+</div>","5","1","/education/index","","1","","","","<?php $this->layout = '1col' ?>","","","2015-04-02 16:28:46","2015-03-11 22:17:10"
+"14","15","orientation","新人研修","","<p>AIPの新人研修にかける想いは２つ、<br />
+「高い品質の教育を福岡で提供したい」<br />
+「新人の頃から多くの絆を作れる場を提供したい」です。</p>
+
+<p>この想いを元に2005年から毎年合同新人研修を実施しています。<br />
+高い品質とリーズナブルな価格、<br />
+そして将来のコアメンバー育成の為の幅広い内容とコミュニティ育成。<br />
+一企業では実現が難しい事でも、多くの企業が協力して運営する<br />
+NPOのAIPだからこそできる教育です。</p>
+
+<ul class=""list-col4"">
+	<li>AIP合同新人研修３つの特徴</li>
+	<li>カリキュラム詳細</li>
+	<li>対象助成金について</li>
+	<li>講座概要</li>
+</ul>
+
+<h2>AIP合同新人研修３つの特徴</h2>
+
+<p>AIPの合同新人研修には他社研修には無い大きな３つの特徴があります。</p>
+<ul class=""list-col3"">
+<li><a href=""#!"">人間性×コミュニティ</a></li>
+<li><a href=""#!"">高品質×低コスト</a></li>
+<li><a href=""#!"">実践型×次世代</a></li>
+</ul>
+
+<h3>人間性&times;コミュニティ</h3>
+
+<ol>
+	<li>３ヶ月間かけるからできる日々のヒューマンスキル指導
+	<ul>
+		<li>毎日日報を提出、翌日分の提出までに全員を個別指導</li>
+		<li>毎朝３分間スピーチを実施、質疑応答・要約指導も</li>
+	</ul>
+	</li>
+	<li>３ヶ月間を通して品質/納期/コストを意識付け
+	<ul>
+		<li>目標（品質）とスケジュール（納期）を評価基準にて明確化</li>
+		<li>初日からコストに関する指導を実施、カリキュラム内でも適用</li>
+	</ul>
+	</li>
+	<li>新人の頃から将来を見据えたコミュニティ形成
+	<ul>
+		<li>合同だからできる会社の垣根を越えたコミュニティ</li>
+		<li>新人研修OG/OBと繋がる新人研修コミュニティ</li>
+	</ul>
+	</li>
+</ol>
+
+<h3>高品質&times;低コスト</h3>
+
+<ol>
+	<li>NPOだからできる多くの優秀な講師陣での講義
+	<ul>
+		<li>すべての講師が現役のため現場に即した講義内容。教育経験もあるので分かりやすい</li>
+		<li>エンジニア/デザイナー/コンサル等、幅広い講師陣</li>
+	</ul>
+	</li>
+	<li>講演会や外部セミナー等に参加することで意識向上を促す
+	<ul>
+		<li>福岡/東京のコミュニティから最前線で活躍する人達が講演</li>
+		<li>新人研修コミュニティから先輩達も講演/指導に参加</li>
+	</ul>
+	</li>
+	<li>各種助成金等に対応。短期間でも参加できる３コース制
+	<ul>
+		<li>キャリア形成促進助成金に対応、その他助成金や奨励金にも</li>
+		<li>３ヶ月間が難しい場合１コースのみ参加やカスタマイズも可能</li>
+	</ul>
+	</li>
+</ol>
+
+<h3>実践型&times;次世代</h3>
+
+<ol>
+	<li>オブジェクト指向の理解と共に納期に対する意識向上
+	<ul>
+		<li>オブジェクト指向の理解の為に言語はJavaを選択</li>
+		<li>演習問題すべてに細かい納期を設定、納期への意識を育成</li>
+	</ul>
+	</li>
+	<li>プロジェクトベース開発演習でチーム品質とコスト理解
+	<ul>
+		<li>４人チームでLEGOを使った演習を実施、チーム品質の理解を促す</li>
+		<li>コストを細かく設定、時間と利益の関係を経験させ理解を促す</li>
+	</ul>
+	</li>
+	<li>模擬プロジェクトでプロジェクトの流れとサービスを理解
+	<ul>
+		<li>チームでサービスの構築・提案から製造、納品までを経験</li>
+		<li>コンペ形式の製品発表会を実施、３ヶ月間の内容をすべて投入</li>
+	</ul>
+	</li>
+	<li>次世代のコアメンバー育成に向け最新技術教育を実施
+	<ul>
+		<li>模擬プロジェクトではクラウドサービスを利用</li>
+		<li>UI/UXやソーシャルメディア、マーケティング等の講座も実施</li>
+	</ul>
+	</li>
+</ol>
+
+<h2>カリキュラム詳細</h2>
+
+<ol>
+	<li>SEパーソナル教育コース(8日間/64時間)<br />
+	SE向けビジネス文章、SE向けビジネスマナー、情報の取り方、プレゼンテーション演習、ロジカルシンキング、ビジネス会計基礎</li>
+	<li>IT基礎技術教育コース(6日間/48時間)<br />
+	コンピュータ基礎、アルゴリズム、Webサービス理解、開発工程理解、UML講座、データベース理解、ソーシャルメディアマーケティング</li>
+	<li>専門教育コース(44日間/352時間)<br />
+	Java初級・中級(講義+演習+課題)、チーム演習、模擬プロジェクト演習、成果発表会</li>
+	<li>定常教育(毎日/随時)<br />
+	3分間スピーチ(毎朝朝礼時)、日報提出、個人面談、ビジネスマナー指導、セキュリティ意識指導、講演会(4～5回を予定)、各種コミュニティ参加引率<br />
+	※平成27年度は全58日間にて実施</li>
+</ol>
+
+<p>詳細スケジュールはこちらを御覧ください。<br />
+<a class=""file-link"" href=""/files/uploads/aip2015orientation.pdf"" target=""_blank"" title=""平成27年度AIP合同新人研修スケジュール"">平成27年度AIP合同新人研修スケジュール(PDF/3MB)</a></p>
+
+<h2>対象助成金について</h2>
+
+<p>AIPの合同新人研修は以下の制度の対象となります。</p>
+
+<ul>
+	<li><a href=""http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/d01-1.html"" target=""_blank"">キャリア形成促進助成金</a><br />
+	新人研修(OFF-JT)と社内でのOJTを合わせた、6ヶ月間の教育訓練計画実施により研究費の最大1/3や賃金助成が支給されます。</li>
+	<li><a href=""http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/kyufukin/roudou_kobetsu.html"" target=""_blank"">中小企業労働環境向上助成金</a><br />
+	雇用管理制度(評価・処遇制度、研修体系制度、健康づくり制度)の導入等に対して30万～40万の助成金が支給されます。</li>
+</ul>
+
+<h2>講座概要</h2>
+
+<table class=""tbl-sp"">
+	<tbody>
+		<tr>
+			<th>対象・前提知識</th>
+			<td>原則として、2015年4月入社予定の新人の方</td>
+		</tr>
+		<tr>
+			<th>コース日数</th>
+			<td>3コースすべて受講で 58日(9:00～18:00)</td>
+		</tr>
+		<tr>
+			<th>コース日程</th>
+			<td>2015年4月6日(月)～6月30日(火)</td>
+		</tr>
+		<tr>
+			<th>研修会場</th>
+			<td>福岡県Ruby・コンテンツ産業振興センター5F<br />
+			福岡市博多区博多駅東1-17-1 福岡県福岡東総合庁舎</td>
+		</tr>
+		<tr>
+			<th>持参するもの</th>
+			<td>研修で使用するPC、参考書籍2冊、筆記用具</td>
+		</tr>
+		<tr>
+			<th>料金</th>
+			<td>
+			<ol>
+				<li>SEパーソナル教育コース &yen;150,000(税抜)</li>
+				<li>IT基礎技術教育コース &yen;150,000(税抜)</li>
+				<li>専門教育コース &yen;300,000(税抜)</li>
+			</ol>
+			※各コースともキャリア形成助成金適用可能</td>
+		</tr>
+		<tr>
+			<th>お支払い方法</th>
+			<td>別途お打ち合わせ</td>
+		</tr>
+		<tr>
+			<th>申込方法</th>
+			<td>電話・FAX・メールにてご連絡ください。<br />
+			折り返し研修担当よりご連絡させて頂き、研修内容の詳しいご説明をさせて頂きます。<br />
+			TEL 092-986-2834 (受付時間 平日:10:00～17:00まで)<br />
+			FAX 092-986-2835<br />
+			e-mail office@npo-aip.or.jp</td>
+		</tr>
+	</tbody>
+</table>","5","1","/education/orientation","","1","","","","","","","2015-04-02 20:59:01","2015-03-11 22:18:34"
+"15","16","teacher","講師","","","5","1","/education/teacher","","1","","","","","","","2015-03-11 22:24:08","2015-03-11 22:24:08"
+"16","17","index","AIPの紹介","","<p style=""text-align: center;""><img align="""" alt=""AIP ロゴ"" src=""/files/uploads/aiplogo.png"" /></p>
+
+<p>AIPは、正式名称を非特定営利法人AIPと言い、これからの日本にあって「最高位のIT人材を戦略的に育成し、その人材や知の集約をもとに、IT活用の高度化と地域の活性化を促進する」ことを使命として設立されたNPOです。</p>
+
+<p>最高位のIT人材育成とは、単に技術知識を持つことを指すのではなく、ITを使ってビジネスプロセスを改善し、企業価値を上げてゆくために必要となるスキルを、実践的・経験的に身に付けた人材を輩出することであり、その結果企業や自治体に於けるITライフサイクルの全体を通じた、高い視点からのITガバナンスを促進します。</p>
+
+<p>2007年にそれまでの講義主体の教育を提供している形から、再スタートをきり、ITコミュニティを核にネットワークを広げ、場やハブとしての役割を担う活動を行ってきました。</p>
+
+<p>福岡を拠点に置き、全国、さらにはアジアを対象として事業を展開し、高度IT人材の戦略的な育成によりIT活用の高度化と地域の活性化を促進いたします。</p>","6","1","/about/index","","1","","","","","","","2015-04-07 22:19:29","2015-03-11 22:25:04"
+"17","20","activity","活動実績","","<h2>プロジェクト支援</h2>
+
+<dl>
+	<dt>LOCAL GOOD FUKUOKA</dt>
+	<dd>支援内容：プロジェクトの企画、進捗管理、営業、広報／課題収集&amp;掲載／ニュース収集&amp;配信／スキルマッチング</dd>
+	<dt>大名なう</dt>
+	<dd>プロジェクトの企画、進捗管理、営業、広報／情報リテラシー育成</dd>
+	<dt>天神・大名WiFi化</dt>
+	<dd>支援内容：プロジェクトの企画、進捗管理、広報／情報リテラシー育成</dd>
+</dl>
+
+<h2>コミュニティ支援</h2>
+
+<dl>
+	<dt>CODE FOR FUKUOKA</dt>
+	<dd>支援内容：運営、会場提供、広報</dd>
+	<dt>スタートアップカフェ</dt>
+	<dd>支援内容：アンバサダーコンシェルジュとして起ち上げ、企画、運営をサポート</dd>
+</dl>","6","1","/about/activity","","1","","","","","","","2015-04-07 21:09:44","2015-03-11 22:25:38"
+"18","19","outline","法人概要・沿革","","<h2>法人概要</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<th>名称</th>
+			<td>特定非営利活動法人 AIP</td>
+		</tr>
+		<tr>
+			<th>英文表記</th>
+			<td>Academy for advanced Information technology Professionals</td>
+		</tr>
+		<tr>
+			<th>住所</th>
+			<td>
+			<p>〒812-0013 福岡県福岡市博多区博多駅東1-17-1<br />
+			福岡県福岡東総合庁舎4階福岡県Ｒｕｂｙ・コンテンツ産業振興センター　オフィス11</p>
+			<iframe frameborder=""0"" height=""400"" src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1661.7855399282123!2d130.42399294212728!3d33.59048414049566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x25d0b7d7f126e1fc!2z56aP5bKh55yM56aP5bKh5p2x57eP5ZCI5bqB6IiOIOemj-Wyoeadsee3j-WQiOW6geiIjuebo-imluWupA!5e0!3m2!1sja!2sjp!4v1433127937199"" style=""border:0"" width=""100%""></iframe></td>
+		</tr>
+		<tr>
+			<th>電話</th>
+			<td>092-986-2834（代表）</td>
+		</tr>
+		<tr>
+			<th>FAX</th>
+			<td>092-986-2835</td>
+		</tr>
+		<tr>
+			<th>設立</th>
+			<td>平成15年1月20日</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2>沿革</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<th>2003年</th>
+			<td>特定非営利活動法人 高度IT人材アカデミー 創設</td>
+		</tr>
+		<tr>
+			<th>2008年</th>
+			<td>天神・大名WiFi化計画 実施<br />
+			AIPCafe 開設</td>
+		</tr>
+		<tr>
+			<th>2009年</th>
+			<td>大名なう 実施</td>
+		</tr>
+		<tr>
+			<th>2010年</th>
+			<td>クラウド3DAYS</td>
+		</tr>
+		<tr>
+			<th>2011年</th>
+			<td>クラウド3DAYS<br />
+			特定非営利活動法人 AIP 名称変更</td>
+		</tr>
+		<tr>
+			<th>2012年</th>
+			<td>クラウド3DAYS</td>
+		</tr>
+		<tr>
+			<th>2015年</th>
+			<td>LOCAL GOOD FUKUOKA 開始</td>
+		</tr>
+	</tbody>
+</table>
+
+<h2>定款</h2>
+
+<p><a class=""file-link"" href=""/files/uploads/AIP_teikan.pdf"" target=""_blank"" title=""AIP_teikan.pdf"">AIP定款はこちらからダウンロードできます（PDF形式 272KB）</a></p>","6","1","/about/outline","","1","","","","","","","2015-06-24 18:02:45","2015-03-11 22:26:22"
+"19","21","organization","組織","","<p>NPOを中心としながら、官(県・市・国)と複数の民間企業が連携しています。<br />
+地場の企業が中心となって事業を運営し、ノウハウを蓄積することで<br />
+長期的な地域の産業活性化を促進します。</p>
+
+<h2>役員</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<th>理事長</th>
+			<td>本田 敬吉 （イー・エフ・アイ株式会社 取締役会長）</td>
+		</tr>
+		<tr>
+			<th>副理事長</th>
+			<td>須藤 修 （東京大学大学院情報学環 教授）<br />
+			上野 末吉 (三立情報株式会社 代表取締役社長)</td>
+		</tr>
+		<tr>
+			<th>理事</th>
+			<td>西岡 雅敏 （株式会社インフォメックス　代表取締役）<br />
+			孫 泰蔵 （MOVIDA JAPAN 株式会社 代表取締役社長）<br />
+			杉山 隆志 （株式会社 cotode 代表取締役社長）<br />
+			柴田 健二 （麻生教育サービス株式会社 取締役営業部長）</td>
+		</tr>
+		<tr>
+			<th>監事</th>
+			<td>岡部 浩太郎 （株式会社福岡CSK 営業部部長）</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>","6","1","/about/organization","","1","","","","","","","2015-03-26 14:34:59","2015-03-11 22:26:55"
+"20","22","support_group","支援","AIPを支援されている団体などの紹介ページです。","<h2>顧問</h2>
+
+<ul>
+	<li><a href=""http://www.pref.fukuoka.lg.jp/"" target=""_blank"">福岡県</a></li>
+	<li><a href=""http://www.city.fukuoka.jp/"" target=""_blank"">福岡市</a></li>
+	<li><a href=""http://www.kyuden.co.jp/"" target=""_blank"">九州電力株式会社</a></li>
+</ul>
+
+<h2>法人会員</h2>
+
+<ul>
+	<li><a href=""https://www.gbc.co.jp/"" target=""_blank"">グローバルブレインズ 株式会社</a></li>
+	<li><a href=""http://www.idcf.jp/"" target=""_blank"">株式会社 IDCフロンティア</a></li>
+	<li><a href=""http://www.asd-inc.jp/"" target=""_blank"">ASD 株式会社</a></li>
+	<li><a href=""http://www.sdcns.co.jp/"" target=""_blank"">株式会社 佐賀電算センター</a></li>
+	<li><a href=""http://www.betrend.com/"" target=""_blank"">ビートレンド株式会社</a></li>
+	<li><a href=""http://fusic.co.jp/"" target=""_blank"">株式会社Fusic</a></li>
+</ul>","6","1","/about/support_group","","1","","","","","","","2015-04-07 21:09:02","2015-03-11 22:27:54"
+"21","25","member","AIP会員","","<div class=""row"">
+<div class=""col s12 m12 l8 offset-l2"">
+<p>AIPの理念や活動に賛同いただける方へ<br />
+AIPでは会員を募集しています。<br />
+AIP会員になると、AIP有料講座の割引やその他特典があります。</p>
+</div>
+</div>
+
+<h2><span>会員の種類</span></h2>
+
+<table class=""table-sp2 "">
+	<thead>
+		<tr>
+			<th colspan=""2"" rowspan=""2"" scope=""col"">会員の種類</th>
+			<th scope=""col"">正会員</th>
+			<th colspan=""2"" scope=""col"">利用会員</th>
+			<th scope=""col"">賛助会員</th>
+			<th colspan=""2"" scope=""col"">AIPカフェ会員</th>
+		</tr>
+		<tr>
+			<th>運営会員</th>
+			<th>法人</th>
+			<th>個人</th>
+			<th>寄付会員</th>
+			<th>団体(法人)</th>
+			<th>個人</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th colspan=""2"" scope=""row"">入会金</th>
+			<td>5万円</td>
+			<td>1万円</td>
+			<td>1万円</td>
+			<td rowspan=""2"">5万円／1口</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<th colspan=""2"" scope=""row"">年会費</th>
+			<td>5万円</td>
+			<td>&nbsp;</td>
+			<td>1万円</td>
+			<td>3万円</td>
+			<td>1万円</td>
+		</tr>
+		<tr>
+			<th rowspan=""8"" scope=""row"">会員特典</th>
+			<th>総会議決権（運営への参加）</th>
+			<td>◯</td>
+			<td>ー</td>
+			<td>ー</td>
+			<td>ー</td>
+			<td>ー</td>
+			<td>ー</td>
+		</tr>
+		<tr>
+			<th>AIPカフェの利用</th>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<th>事業への参加</th>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>△</td>
+			<td>△</td>
+			<td>△</td>
+		</tr>
+		<tr>
+			<th>AIP主催研修の割引</th>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>△</td>
+			<td>ー</td>
+			<td>ー</td>
+		</tr>
+		<tr>
+			<th>AIPイベントの割引<br />
+			<small>低額の場合は除く</small></th>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>△</td>
+			<td>ー</td>
+			<td>ー</td>
+		</tr>
+		<tr>
+			<th>ビジネスマッチングの情報提供</th>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>△</td>
+			<td>△</td>
+			<td>△</td>
+		</tr>
+		<tr>
+			<th>メールマガジンの配信<br />
+			<small>希望者のみ</small></th>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+		</tr>
+		<tr>
+			<th>Rubyセンターセミナールームの利用<br />
+			<small>(但し、AIPが共催等ができるものに限る)</small></th>
+			<td>◯</td>
+			<td>◯</td>
+			<td>◯</td>
+			<td>ー</td>
+			<td>ー</td>
+			<td>ー</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>※ 特典 AIPカフェの利用（解錠・施錠権限）は「団体（法人）」では団体に所属するメンバーへの貸与が可能です。<br />
+「個人」ではご本人のみとなり貸与はできません。</p>
+
+<div class=""row"">
+<h3>入会方法</h3>
+
+<div class=""col s12 m8"">
+<p>AIP会員申込フォームより登録をお願いします。<br />
+&nbsp;</p>
+</div>
+
+<div class=""col s12 m4""><a class=""waves-effect waves-light btn"" href=""https://docs.google.com/spreadsheet/viewform?formkey=dGFHMDFoejFJSjFfWU82ZGQ4eHhBT0E6MQ"" target=""_blank"">AIP会員入会のお申し込み</a></div>
+</div>
+
+<div class=""row"">
+<h3>メールマガジン会員募集のご案内</h3>
+
+<div class=""col s12 m8"">
+<p>講座開催のご案内などが届くメールマガジン（メルマガ）会員を募集しております。<br />
+会員へのお申込は無料です。</p>
+</div>
+
+<div class=""col s12 m4""><a class=""waves-effect waves-light btn"" href=""https://docs.google.com/a/npo-aip.or.jp/spreadsheet/viewform?formkey=dHNJS19qdWlWRkF3MVNNMWVycDU4U3c6MQ"" target=""_blank"">メルマガ会員 登録</a></div>
+</div>","","1","/member","","1","","","","<?php $this->layout = '1col' ?>","","","2015-04-20 18:43:51","2015-03-11 22:30:07"
+"22","26","aipcafe","AIPカフェ","","<div class=""row"">
+<div class=""col s12 m12 l8 offset-l2""><img alt=""AIPカフェ"" class=""mb20"" src=""/files/uploads/aipcafe.jpg"" />
+<p>コミュニティメンバー等が気軽に集まって打ち合わせや勉強会が出来る<br />
+多目的交流スペース「AIPカフェ」を運営しています。<br />
+壁一面のホワイトボードやバーカウンターも用意しています。<br />
+皆さんのアイデアで有効に活用して下さい。</p>
+
+<p><a class=""btn small"" href=""/about/aipcafemembers"">AIPカフェメンバー一覧はこちら</a></p>
+
+<p>&nbsp;</p>
+</div>
+</div>
+
+<div class=""row"">
+<h2><span>AIPカフェ ご利用の流れ</span></h2>
+
+<div class=""row"">
+<div class=""col s12 m12 l12"">
+<ol class=""list-flow"">
+	<li><strong>1</strong>
+
+	<p>AIPカフェ利用カレンダーで空き状況を確認</p>
+	</li>
+	<li><strong>2</strong>
+	<p>AIPカフェML(Googleグループ)へ参加</p>
+	</li>
+	<li><strong>3</strong>
+	<p>AIPカフェMLで利用申請</p>
+	</li>
+	<li><strong>4</strong>
+	<p>当日はAIPカフェの鍵を持った方が解錠</p>
+	</li>
+</ol>
+</div>
+</div>
+
+<p>※利用申請するメンバーに鍵を持った方がいないと解錠できないのでご注意ください。<br />
+※来た時よりも美しく。ゴミはお持ち帰りください。<br />
+※喫煙は所定の場所でお願いします。</p>
+</div>
+
+<div class=""row"">
+<h3>AIPカフェ解錠・施錠権限</h3>
+
+<div class=""col s12 m8"">
+<p>AIPカフェ会員になると、AIPカフェの解錠・施錠権限が付与されますので鍵をご利用できます。<br />
+AIPカフェ会員へのお申し込みは会員ページよりお申し込み下さい。<br />
+AIPカフェ会員の年会費は1万円です。<br />
+<a href=""/about/aipcafemembers"">AIPカフェメンバー一覧はこちら</a></p>
+</div>
+
+<div class=""col s12 m4""><a class=""waves-effect waves-light btn"" href=""#"">AIP カフェ会員 入会のお申し込み </a></div>
+</div>
+
+<h3>AIPカフェ利用カレンダー</h3>
+
+<div class=""cal_wrapper"">
+<div class=""gcal""><iframe frameborder=""0"" height=""600"" scrolling=""no"" src=""https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=aipcafe302%40gmail.com&amp;color=%238D6F47&amp;ctz=Asia%2FTokyo"" style="" border-width:0 "" width=""100%""></iframe></div>
+</div>
+
+<h3>所在地</h3>
+
+<div class=""gmap""><iframe frameborder=""0"" height=""600"" src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.6807185881726!2d130.395491!3d33.587638200000015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3541918678c77589%3A0xdf4e5163c7cb137c!2z44CSODEwLTAwNDEg56aP5bKh55yM56aP5bKh5biC5Lit5aSu5Yy65aSn5ZCN77yR5LiB55uu77yR77yU4oiS77yS77yY!5e0!3m2!1sja!2sjp!4v1427352590490"" style=""border:0"" width=""100%""></iframe></div>
+
+<p>福岡市中央区大名1丁目14-28 紺屋2023 第一松村ビル302号室</p>","","1","/aipcafe","","1","","","","<?php $this->layout = '1col' ?>","","","2015-06-03 14:32:10","2015-03-11 22:30:38"
+"23","23","support","支援のお願い","","<p>AIPの活動に共感し、賛同していただいた方に できる形での支援をお願いいたします。</p>
+
+<p>将来を見据え必要となる新規技術の教育。<br />
+教育の大きな核となるコミュニティの勉強会や意見交換が出来る場として、現在のシェアカフェにつながるようなコンセプトの「AIPCafe」の運営と言ったITコミュニティへの支援。<br />
+実ビジネスの経験の場として人と街を繋げる「天神・大名WiFi化協議会」や「大名なう」などの活動。</p>
+
+<p>これらの活動は福岡県内だけではなく、北海道、東京、沖縄など福岡県外の方が視察に訪れ、コミュニティ設立や、シェアスペースの創設などの具体的活動として広がってきています。</p>
+
+<h2>支援の形</h2>
+
+<h3>講師</h3>
+
+<p>専門知識や経験の豊富な方。講師として後進の育成をお願いします。<br />
+<a href=""#"">AIP事務局までお問い合わせください</a></p>
+
+<h3>AIP運営会員、利用会員</h3>
+
+<p>AIPの事業について企画、運営といった形で参加をお願いします。<br />
+<a href=""#"">AIP会員について</a></p>
+
+<h3>寄付(AIPCafe会員、賛助会員)</h3>
+
+<p>皆さんの気持ちを寄付金に託して、支援をお願いします。お預かりする貴重な寄付は教育、地域活性化、コミュニティ支援に繋がる運営や実費のために活用させていただきます。<br />
+<a href=""#"">AIPカフェ会員、賛助会員への入会方法</a></p>","6","1","/about/support","","1","","","","","","","2015-04-07 21:09:22","2015-03-11 22:56:07"
+"24","24","aipcafemembers","AIPカフェ メンバーズ","AIPカフェ会員のみなさまを紹介します。","<p>※順不同</p>
+
+<div class=""row"">
+<div class=""col s6 m6"">
+<ul>
+	<li><a href=""http://blog.cgfm.jp/garyu/"">金内 透</a>（<a href=""http://cgfm.jp"">合同会社CGFM</a>）</li>
+	<li><a href=""http://blog.cgfm.jp/mutsuki/"">金内 和子</a>（<a href=""http://cgfm.jp"">合同会社CGFM</a>）</li>
+</ul>
+</div>
+
+<div class=""col s6 m6"">
+<ul>
+	<li><a href=""#"">田中　太朗</a></li>
+	<li><a href=""#"">山田　花子</a></li>
+</ul>
+</div>
+</div>","6","1","/about/aipcafemembers","","1","","","","","","","2015-09-26 15:01:25","2015-03-16 19:09:32"
+"25","18","policy","AIPの理念","","<!-- <p><span style=""color:#FF0000;"">（概念図待ち）</span></p> -->
+<p>AIPでは高度なIT人材を育てるために必要な「活動」全てを教育ととらえ、新しい技術や企画力向上を目指す「知識教育」の充実だけでなく、「人間性」を広げる活動（コミュニティ活動）への誘導や、「実ビジネス」をおこすためのコミュニケーションハブとなる機能を教育機関が持ち、真に実ビジネスに通用する教育を実施することで総合的に人材育成が可能な事業を実施しています。</p>
+
+<h2>知識(教育)</h2>
+
+<p>教育の充実。新規技術や企画力向上のための研修など、今後福岡に必要と考えられる教育を迅速に提供しています。</p>
+
+<h2>経験(ビジネス)</h2>
+
+<p>地域活性化支援。天神・大名WiFi化プロジェクトや、大名なうなどの地域活性化のための各種コンサルティングの支援を行うことで、ITを活用したサービスを地場で実施できるチャンスを広げる活動を支援していきます。</p>
+
+<h2>人間性(コミュニティ)</h2>
+
+<p>コミュニティ支援。福岡市を中心とした地域のITコミュニティ支援を行うことで、技術者同士にとどまらず、地域の企業や住民との接点を広げ、人間性の幅を広げる活動を視点しています。</p>","6","1","/about/policy","","1","","","","","","","2015-06-16 10:51:02","2015-03-26 13:55:04"
