@@ -13,10 +13,19 @@ AIP様のご厚意で公開、テーマコンテスト応募の許可をいた�
 * 複数ブログ記事のスライドショーに対応（HOME）
 * TwitterやFacebookなどのSNSのシェア向けのOGPタグ完備（アイキャッチ画像対応）
 
-##使用ファイル
-* CSS フーレムワーク：Materialize http://materializecss.com/
+##CSS framework
+Materialize http://materializecss.com/
+
+ Copyright (c) 2014-2015 Materialize
+ https://github.com/Dogfalo/materialize/blob/master/LICENSE
+
+##web font, web icon
+-Font Awesome License https://fortawesome.github.io/Font-Awesome/license/
+-M+ OUTLINE FONTS | WEB FONTS https://mplus-fonts.osdn.jp/webfonts/
+
+
 
 ##諸注意
-* グローバルメニューはメニュー管理とは連動していません。テーマファイルに直接記述してください。
-** PC版メニューとスマートフォン用メニューは別々です 
+グローバルメニューはメニュー管理とは連動していません。テーマファイルに直接記述してください。
+PC版メニューとスマートフォン用メニューは別々です。
  
