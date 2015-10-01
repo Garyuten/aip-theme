@@ -14,14 +14,14 @@ AIP様のご厚意で公開、テーマコンテスト応募の許可をいた�
 * TwitterやFacebookなどのSNSのシェア向けのOGPタグ完備（アイキャッチ画像対応）
 
 ##CSS framework
-Materialize http://materializecss.com/
+* Materialize http://materializecss.com/
 
  Copyright (c) 2014-2015 Materialize
  https://github.com/Dogfalo/materialize/blob/master/LICENSE
 
 ##web font, web icon
--Font Awesome License https://fortawesome.github.io/Font-Awesome/license/
--M+ OUTLINE FONTS | WEB FONTS https://mplus-fonts.osdn.jp/webfonts/
+* Font Awesome License https://fortawesome.github.io/Font-Awesome/license/
+* M+ OUTLINE FONTS | WEB FONTS https://mplus-fonts.osdn.jp/webfonts/
 
 
 
