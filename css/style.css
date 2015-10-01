@@ -1,6 +1,6 @@
 @charset "UTF-8";
 @import url(slider-pro.min.css);
-@import url(font-awesome.min.css);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
 .materialize-red.lighten-5 {
   background-color: #fdeaeb !important;
 }
@@ -12554,11 +12554,12 @@ ul.table-of-contents a.active {
 @font-face {
   font-family: mplus-1p-regular;
   font-weight: normal;
-  src: url("../font/mplus-1p-regular.ttf") format("truetype");
+  src: url("http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-regular.ttf") format("truetype");
 }
 @font-face {
+  font-family: mplus-1p-bold;
   font-weight: bold;
-  src: url("../font/mplus-1p-bold.ttf") format("truetype");
+  src: url("http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-bold.ttf") format("truetype");
 }
 h1, h2, h3, h4 {
   font-family: mplus-1p-regular;
@@ -15726,4 +15727,14 @@ override plugin
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
+}
+
+@font-face {
+  font-family: mplus-1p-regular;
+  font-weight: normal;
+  src: url("http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-regular.ttf") format("truetype");
+}
+@font-face {
+  font-weight: bold;
+  src: url("http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-bold.ttf") format("truetype");
 }

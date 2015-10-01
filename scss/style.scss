@@ -56,5 +56,19 @@
 // ==========================================================================
 // font-icon
 // ==========================================================================
-@import url(font-awesome.min.css);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
 
+// ==========================================================================
+// web-font
+// ==========================================================================
+@font-face{
+  font-family: mplus-1p-regular;
+  font-weight: normal;
+  src: url('http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-regular.ttf')
+    format("truetype");
+}
+@font-face{
+  font-weight: bold;
+  src: url('http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-bold.ttf')
+     format("truetype");
+}

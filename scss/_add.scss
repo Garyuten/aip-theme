@@ -53,17 +53,14 @@ $contentsPaddingTop : 50px;
 @font-face{
   font-family: mplus-1p-regular;
   font-weight: normal;
-  // src: url('http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-regular.ttf')
-  //   format("truetype");
-  src: url('../font/mplus-1p-regular.ttf')
+  src: url('http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-regular.ttf')
     format("truetype");
 }
 @font-face{
+  font-family: mplus-1p-bold;
   font-weight: bold;
-  // src: url('http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-bold.ttf')
-     // format("truetype");
-  src: url('../font/mplus-1p-bold.ttf')
-    format("truetype");
+  src: url('http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-bold.ttf')
+     format("truetype");
 }
 
 h1,h2,h3,h4{
